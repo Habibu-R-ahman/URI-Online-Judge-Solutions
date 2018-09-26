@@ -3,14 +3,13 @@
 This is an open source codes for you of URI online Judge.<br/>
 Here, I've added and *collected some URI problems solution in C, C++ and in Java languages.You can use these URI Online judge solutions in your coding time on URI..<br/>
 <em><h2>N:B:<q>Before seeing the solution make sure that you tried enough</q></h3></em><br/>
-You can get all the URI Online Judge Problems Solution and solve URI Problems easily all of the URI Problems. <br />
-I may be add one problems solution in different languages(C, C++, Java). From them, C++/cpp is the best solution, Promise.<br />
+I'm Trying to add more Solutions... Keep in touch!<br>
 
-You can get any individual URI online Judge Problem's Solution at https://urisolve.blogspot.com<br />
-
-Contact with me at my mail for any problem : anuhimel@gmail.com <br />
+<strong>Contact with Me</strong><br> 
+Mail : anuhimel@gmail.com <br>
+Facebook : <a href="https://www.facebook.com/messages/t/ariyan.anu.1">Ariyan Anu</a><br>
 -----------------------------------------------<br />
-Get all the URI problems solution and be a master on URI Online Judge.<br /><br />
+
 Below solutions are available in this repository:<br />
 
 <table class="table table-responsive">

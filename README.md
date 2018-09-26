@@ -1,4 +1,4 @@
-<img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/9144/Rl1qxNZhT5u7Bii1tesO">
+<img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/9144/Rl1qxNZhT5u7Bii1tesO" >
 <h1 align="center">URI Online Judge Solution List</h1>
 This is an open source codes for you of URI online Judge.<br/>
 Here, I've added some URI problems solution in C, C++ and in Java languages.You can use these URI Online judge solutions in your coding time on URI..<br />
@@ -30,27 +30,27 @@ Below solutions are available in this repository:<br />
 </tr>
 
 <tr>
-<td>1002</td>
-<td>Area of a Circle</td>
-<td>C, CPP, Java</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.c">1002</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.c">Area of a Circle</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.c">C</a>, CPP, Java</td>
 </tr>
 
 <tr>
-<td>1003</td>
-<td>Simple Sum</td>
-<td>C, CPP, Java</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.c">003</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.c">Simple Sum</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.c">C</a>, CPP, Java</td>
 </tr>
 
 <tr>
-<td>1004</td>
-<td>Simple Product</td>
-<td>C, CPP, Java</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.c"></a>1004</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.c"></a>Simple Product</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.c"></a>C, CPP, Java</td>
 </tr>
 
 <tr>
-<td>1005</td>
-<td>Average 1</td>
-<td>C, CPP, Java</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.c"></a>1005</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.c"></a>Average 1</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.c"></a>C, CPP, Java</td>
 </tr>
 
 <tr>

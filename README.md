@@ -154,7 +154,7 @@ Below solutions are available in this repository:<br />
 
 <tr>
 <td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1035.c">1035</a></td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1035.c">Selection Test </a>1</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1035.c">Selection Test 1 </a></td>
 <td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1035.c">C</a>, CPP, Java</td>
 </tr>
 

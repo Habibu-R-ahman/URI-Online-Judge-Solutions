@@ -173,6 +173,156 @@ Below solutions are available in this repository:<br />
 <td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1038.c">Snack</a></td>
 <td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1038.c">C</a>, CPP, Java</td>
 </tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1040.c">1040</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1040.c">Average 3</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1040.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1041.c">1041</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1041.c">Coordinates of a Point</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1041.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1042.c">1042</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1042.c">Simple Sort</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1042.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1043.c">1043</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1043.c">Triangle</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1043.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1044.c">1044</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1044.c">Multiples</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1044.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1045.c">1045</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1045.c">Triangle Types</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1045.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1046.c">1046</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1046.c">Game Time</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1046.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1047.c">1047</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1047.c">Game Time with Minutes</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1047.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1048.c">1048</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1048.c">Salary Increase</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1048.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1049.c">1049</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1049.c">Animal</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1049.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1050.c">1050</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1050.c">DDD</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1050.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1051.c">1051</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1051.c">Animal</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1051.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1052.c">1052</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1052.c">Month</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1052.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1059.c">1059</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1059.c">Even Numbers</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1059.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1060.c">1060</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1060.c">Positive Numbers</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1060.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1061.c">1061</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1061.c">Event Time</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1061.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1064.c">1064</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1064.c">Positives and Average</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1064.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1065.c">1065</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1065.c">Even Between five Numbers</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1065.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1066.c">1066</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1066.c">Even, Odd, Positive and Negative</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1066.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1067.c">1067</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1067.c">Odd Numbers</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1067.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1070.c">1070</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1070.c">Six Odd Numbers</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1070.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1071.c">1071</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1071.c">Sum of Consecutive Odd Numbers I</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1071.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1072.c">1072</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1072.c">Interval 2</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1072.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1073.c">1073</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1073.c">Even Square</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1073.c">C</a>, CPP, Java</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1074.c">1074</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1074.c">Even or Odd</a></td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1074.c">C</a>, CPP, Java</td>
+</tr>
 </table>
 <br />..Adding Here more URI online Judge Solution..Just wait and star the repository..
 

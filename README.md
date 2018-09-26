@@ -1,5 +1,5 @@
-# URI-Online-Judge-All-Problems-Solution List
-This is an open source codes for you of URI online Judge.<br />
+<h1>URI Online Judge Solution List</h1>
+This is an open source codes for you of URI online Judge.<br/>
 Here, I've added some URI problems solution in C, C++ and in Java languages.You can use these URI Online judge solutions in your coding time on URI..<br />
 As a programmer, I first suggest you to try these code first. It will be the best if you do your own code. And obviously solving one problem more than 2-3 days of URI online judge not a good idea at all.
 <br />

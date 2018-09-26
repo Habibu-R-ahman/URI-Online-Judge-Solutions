@@ -1,10 +1,9 @@
 <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/9144/Rl1qxNZhT5u7Bii1tesO" >
 <h1 align="center">URI Online Judge Solution List</h1>
 This is an open source codes for you of URI online Judge.<br/>
-Here, I've added some URI problems solution in C, C++ and in Java languages.You can use these URI Online judge solutions in your coding time on URI..<br />
-As a programmer, I first suggest you to try these code first. It will be the best if you do your own code. And obviously solving one problem more than 2-3 days of URI online judge not a good idea at all.
-<br />
-So here, You can get all the URI Online Judge Problems Solution and solve URI Problems easily all of the URI Problems. <br />
+Here, I've added and *collected some URI problems solution in C, C++ and in Java languages.You can use these URI Online judge solutions in your coding time on URI..<br/>
+<em><h2>N:B:<q>Before seeing the solution make sure that you tried enough</q></h3></em><br/>
+You can get all the URI Online Judge Problems Solution and solve URI Problems easily all of the URI Problems. <br />
 I may be add one problems solution in different languages(C, C++, Java). From them, C++/cpp is the best solution, Promise.<br />
 
 You can get any individual URI online Judge Problem's Solution at https://urisolve.blogspot.com<br />

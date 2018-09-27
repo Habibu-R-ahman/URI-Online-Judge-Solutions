@@ -24,7 +24,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.c">1001</a></td>
 <td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.c">Extremely Basic</a></td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.c">C</a>, CPP, Java</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.c">C</a>,   C++, Java</td>
 </tr>
 
 <tr>

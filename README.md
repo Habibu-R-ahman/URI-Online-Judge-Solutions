@@ -7,7 +7,6 @@ I'm Trying to add more Solutions... Keep in touch!<br>
 
 <strong>Contact with Me</strong><br> 
 Gmail    : anuhimel@gmail.com<br>
-Facebook :<a href="m.me/ariyan.anu.1"> Ariyan Anu</a><br>
 -----------------------------------------------<br />
 
 Below solutions are available in this repository:<br />

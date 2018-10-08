@@ -6,8 +6,8 @@ Here, I've added and *collected some URI problems solution in C, C++ and in Java
 I'm Trying to add more Solutions... Keep in touch!<br>
 
 <strong>Contact with Me</strong><br> 
-<a href="anuhimel@gmail.com">Gmail</a><br>
-<a href="https://www.facebook.com/messages/t/ariyan.anu.1">Facebook</a><br>
+Gmail    : anuhimel@gmail.com<br>
+Facebook :<a href="m.me/ariyan.anu.1"> Ariyan Anu</a><br>
 -----------------------------------------------<br />
 
 Below solutions are available in this repository:<br />

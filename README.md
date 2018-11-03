@@ -16,7 +16,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <th>URI Problem Number</th>
 <th>URI Problem Name </th>
-<th>URI Problem Solution Language</th>
+<th>Solution Language</th>
 </tr>
 
 <tr>

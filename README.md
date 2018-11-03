@@ -14,7 +14,7 @@ Below solutions are available in this repository:<br />
 <table class="table table-responsive">
 
 <tr>
-<th>URI Problem Number</th>
+<th>Problem Number</th>
 <th>URI Problem Name </th>
 <th>Solution Language</th>
 </tr>

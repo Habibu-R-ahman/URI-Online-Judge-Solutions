@@ -418,6 +418,407 @@ Below solutions are available in this repository:<br />
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1074.cpp">C++</a>
 </td>
 </tr>
+
+<tr>
+<td>1075</td>
+<td>Remaining 2</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1075.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1075.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1078</td>
+<td>Multiplication Table</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1078.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1078.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1079</td>
+<td>Weighted Averages</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1079.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1079.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1080</td>
+<td>Highest and Position</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1080.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1080.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1094</td>
+<td>Experiments</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1094.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1094.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1095</td>
+<td>Sequence IJ 1</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1095.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1095.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1096</td>
+<td>Sequence IJ 2</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1096.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1096.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1097</td>
+<td>Sequence IJ 3</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1097.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1097.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1098</td>
+<td>Sequence IJ 4</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1098.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1098.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1099</td>
+<td>Sum of Consecutive Odd Numbers II</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1099.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1099.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1101</td>
+<td>Sequence of Numbers and Sum</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1101.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1101.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1113</td>
+<td>Ascending and Descending</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1113.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1113.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1114</td>
+<td>Fixed Password</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1114.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1114.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1115</td>
+<td>Quadrant</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1115.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1115.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1116</td>
+<td>Dividing X by Y</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1116.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1116.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1117</td>
+<td>Score Validation</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1117.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1117.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1118</td>
+<td>Several Scores with Validation</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1118.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1118.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1131</td>
+<td>Grenais</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1131.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1131.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1132</td>
+<td>Multiples of 13</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1132.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1132.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1133</td>
+<td>Rest of a Division</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1133.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1133.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1134</td>
+<td>Type of Fuel</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1134.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1134.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1142</td>
+<td>PUM</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1142.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1142.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1143</td>
+<td>Squared and Cubic</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1143.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1143.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1144</td>
+<td>Logical Sequence</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1114.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1114.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1145</td>
+<td>Logical Sequence 2</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1145.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1145.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1146</td>
+<td>Growing Sequences</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1146.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1146.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1149</td>
+<td>Summing Consecutive Integers</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1149.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1149.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1150</td>
+<td>Exceeding Z</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1150.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1150.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1151</td>
+<td>Easy Fibonacci</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1151.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1151.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1153</td>
+<td>Simple Factorial</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1153.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1153.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1154</td>
+<td>Ages</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1154.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1154.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1155</td>
+<td>S Sequence</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1155.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1155.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1156</td>
+<td>S Sequence II</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1156.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1156.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1157</td>
+<td>Divisors I</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1157.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1157.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1158</td>
+<td>Sum of Consecutive Odd Numbers III</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1158.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1158.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1159</td>
+<td>Sum of Consecutive Even Numbers</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1159.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1159.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1160</td>
+<td>Population Increase</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1160.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1160.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1164</td>
+<td>Perfect Number</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1164.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1164.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1165</td>
+<td>Prime Number</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1165.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1165.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1172</td>
+<td>Array Replacement I</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1172.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1172.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1173</td>
+<td>Array fill I</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1173.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1173.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1174</td>
+<td>Array Selection I</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1174.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1174.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1175</td>
+<td>Array change I</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1175.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1175.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1176</td>
+<td>Fibonacci Array</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1176.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1176.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1177</td>
+<td>Array Fill II</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1177.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1177.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1178</td>
+<td>Array Fill III</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1178.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1178.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1179</td>
+<td>Array Fill IV</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1179.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1179.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1180</td>
+<td>Lowest Number and Position</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1180.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1180.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1181</td>
+<td>Line in Array</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1181.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1181.cpp">C++</a>
+</td>
+</tr>
+
+<tr>
+<td>1182</td>
+<td>Column in Array</td>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1182.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1182.cpp">C++</a>
+</td>
+</tr>
+
 </table>
 <br />..Adding Here more URI online Judge Solution..Just wait and star the repository..
 

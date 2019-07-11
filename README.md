@@ -1,7 +1,7 @@
 <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/9144/Rl1qxNZhT5u7Bii1tesO" >
 <h1 align="center">URI Online Judge Solution List</h1>
 This is an open source codes for you of URI online Judge.<br/>
-Here, I've added and *collected some URI problems solution in C, C++ and in Java languages.You can use these URI Online judge solutions in your coding time on URI..<br/>
+Here, I've added and *collected some URI problems solution in C and C++.You can use these URI Online judge solutions in your coding time on URI..<br/>
 <em><h2>N:B:<q>Before seeing the solution make sure that you tried enough</q></h3></em><br/>
 I'm Trying to add more Solutions... Keep in touch!<br>
 

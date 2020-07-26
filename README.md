@@ -903,3 +903,8 @@ Below solutions are available in this repository:<br />
 </table>
 <br />..Adding Here more URI online Judge Solution..Just wait and star the repository..
 
+## License & Copyright
+
+© Habibur Rahman, CSE Student
+
+Licensed under the [MIT Licence](LICENSE)

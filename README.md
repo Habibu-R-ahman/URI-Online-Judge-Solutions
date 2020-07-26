@@ -122,40 +122,50 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1011</td>
 <td>Sphere Sequential</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1011.c">C</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1011.cpp">C++</a>
+<td>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1011.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1011.cpp">C++</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1011.java">Java</a>
 </td>
 </tr>
 
 <tr>
 <td>1012</td>
 <td>Area Sequential</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1012.c">C</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1012.cpp">C++</a>
+<td>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1012.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1012.cpp">C++</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1012.java">Java</a>
 </td>
 </tr>
 
 <tr>
 <td>1013</td>
 <td>The Greatest</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1013.c">C</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1013.cpp">C++</a>
+<td>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1013.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1013.cpp">C++</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1013.java">Java</a>
 </td>
 </tr>
 
 <tr>
 <td>1014</td>
 <td>Consumption</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1014.c">C</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1014.cpp">C++</a>
+<td>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1014.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1014.cpp">C++</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1014.java">Java</a>
 </td>
 </tr>
 
 <tr>
 <td>1015</td>
 <td>Distance Between Two Points</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1015.c">C</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1015.cpp">C++</a>
+<td>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1015.c">C</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1015.cpp">C++</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1015.java">Java</a>
 </td>
 </tr>
 

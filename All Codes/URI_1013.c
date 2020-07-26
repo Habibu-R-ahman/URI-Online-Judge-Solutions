@@ -1,16 +1,14 @@
 #include <stdio.h>
-
 int main()
 {
-	int a, b, c;
-	scanf("%d %d %d", &a, &b, &c);
+    int a,b,c,d,e;
 
-	if(a>b && a>c)
-		printf("%d eh o maior\n", a);
-	else if(b>c && b>a)
-		printf("%d eh o maior\n", b);
-	else
-		printf("%d eh o maior\n", c);
-
+    scanf("%d %d %d",&a,&b,&c);
+    
+	d = (a + b + abs(a - b)) / 2;
+    e = (d + c + abs(c - d)) / 2;
+    
+	printf("%d eh o maior\n",e);
+    
 	return 0;
 }

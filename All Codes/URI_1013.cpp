@@ -4,18 +4,14 @@ using namespace std;
  
 int main()
 {
-    int a, b, c, aux=0;
+    int a,b,c,d,e;
     
     cin >> a >> b >> c;
     
-    if(a>b && a>c)
-		aux = a;
-    else if(b>c && b>a)
-        aux = b;
-    else
-        aux = c;
+	d = (a + b + abs(a - b)) / 2;
+    e = (d + c + abs(c - d)) / 2;
         
-    cout << aux << " eh o maior" << endl;
+    cout << e << " eh o maior" << endl;
 
     return 0;
 }

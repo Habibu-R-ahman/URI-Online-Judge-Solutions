@@ -7,4 +7,4 @@ int main()
    printf("X = %d\n", A+B);  //Use \n at last for new line
    
    return 0;
-} 
+}

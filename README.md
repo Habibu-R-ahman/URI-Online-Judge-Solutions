@@ -908,3 +908,9 @@ Below solutions are available in this repository:<br />
 © Habibur Rahman, CSE Student
 
 Licensed under the [MIT Licence](LICENSE)
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+|[col 1 is](All%20Codes/URI_1001.c)|  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |

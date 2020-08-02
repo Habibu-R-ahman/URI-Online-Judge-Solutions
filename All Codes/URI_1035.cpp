@@ -11,7 +11,6 @@ int main() {
         cout << "Valores aceitos" << endl;
     else
         cout << "Valores nao aceitos" << endl;
-        
 
     return 0;
 }

@@ -1,27 +1,26 @@
-#include<stdio.h>
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
-    int c[12],n,f,i,num[] = {100,50,20,10,5,2,100,50,25,10,5,1};
-    double x;
-    scanf("%lf",&x);
-    n = x;
-    f = x*100;
-    f = f%100;
+    char title[20] = "nota(s) de R$";
+    char title2[] = "moeda(s) de R$";
+    int temp, n, i;
+    int arr[12] = {10000, 5000, 2000, 1000, 500, 200, 100, 50, 25, 10, 5, 1};
+    double N;
+    
+    scanf("%lf", &N);
+    n = (int)(N * 100 + 0.00001);
     printf("NOTAS:\n");
-    for(i=0;i<6;i++)
-    {
-        c[i] = n/num[i];
-        n = n%num[i];
-        printf("%d nota(s) de R$ %d.00\n", c[i], num[i]);
-    }
-    if(n == 1)
-    f = f+100;
-    printf("MOEDAS:\n");
-    for(i = 6;i<12;i++)
-    {
-        c[i] = f/num[i];
-        f = f%num[i];
-        printf("%d moeda(s) de R$ %0.2f\n", c[i], num[i]/100.0);
+
+    for (i = 0; i < 12; i++) {
+        temp = n / arr[i];
+        n = n % arr[i];
+        if (i == 6) {
+            strcpy(title,title2);
+            printf("MOEDAS:\n");
+        }
+        printf("%d %s %.2f\n", temp, title, arr[i]/100.00);
     }
     return 0;
 

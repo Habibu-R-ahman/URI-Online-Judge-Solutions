@@ -14,13 +14,11 @@ int main() {
     
     if(a >= 7)
         cout << "Aluno aprovado." << endl;
-    else if(a < 5)
-        cout << "Aluno reprovado." << endl;
     else if(a >=5 && a <= 6.9)
     {
         cout << "Aluno em exame." << endl;
         cin >> N5;
-        cout << "Nota do exame: " << fixed << setprecision(1) << N5 << endl;
+        cout << "Nota do exame: " << N5 << endl;
         
         b = (N5 + a) / 2;
         
@@ -28,8 +26,11 @@ int main() {
             cout << "Aluno aprovado." << endl;
         else if(b <= 4.9)
             cout << "Aluno reprovado." << endl;
-        cout << "Media final: " << fixed << setprecision(1) << b << endl;
+        cout << "Media final: " << b << endl;
     }
+    
+    else
+        cout << "Aluno reprovado." << endl;
     
     return 0;
 }

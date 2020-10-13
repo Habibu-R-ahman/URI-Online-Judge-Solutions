@@ -1,5 +1,5 @@
 <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/9144/Rl1qxNZhT5u7Bii1tesO" >
-<h1 align="center">URI Online Judge Solution List</h1>
+<h1 align="center">URI Online Judge Solution List</h1>![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/&title=Views)
 This is an open source codes for you of URI online Judge.<br/>
 Here, I've added and *collected some URI problems solution in C, C++ and Java.You can use these URI Online judge solutions in your coding time on URI..<br/>
 <em><h2>N:B:<q>Before seeing the solution make sure that you tried enough</q></h3></em><br/>

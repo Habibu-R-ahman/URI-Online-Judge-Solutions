@@ -4,7 +4,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHabibu-R-ahman%2FURI-Online-Judge-Solutions.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false&align=center"/></a></br>
 
 This is an open source codes for you of URI online Judge.<br/>
-Here, I've added and *collected some URI problems solution in C, C++ and Java.You can use these URI Online judge solutions in your coding time on URI..<br/>
+Here, I've added and *collected some URI problems solution in C, C++, Java and <b>Python<b/>.You can use these URI Online judge solutions in your coding time on URI..<br/>
 <em><h2>N:B:<q>Before seeing the solution make sure that you tried enough</q></h3></em><br/>
 I'm Trying to add more Solutions... Keep in touch!<br>
 

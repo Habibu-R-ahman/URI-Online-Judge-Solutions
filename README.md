@@ -6,20 +6,9 @@
 This is an open source codes for you of URI online Judge.<br/>
 Here, I've added and *collected some URI problems solution in C, C++, Java and <b>Python</b>. You can use these URI Online judge solutions in your coding time on URI..<br/>
 <em><h2>N:B:<q>Before seeing the solution make sure that you tried enough</q></h3></em><br/>
-I'm Trying to add more Solutions... Keep in touch!
+I'm Trying to add more Solutions... Keep in touch!<br>
 
----
-
-<p align="center">
-   <i>
-     “Code is like humor. When you have to explain it, it’s bad.” <br>
-                                         – Cory House
-  </i>
-</p> 
-
----
-
-<strong>Contact with Me</strong><br> 
+## Contact with Me 
 Gmail    : anuhimel@gmail.com<br>
 -----------------------------------------------<br />
 
@@ -939,3 +928,14 @@ Below solutions are available in this repository:<br />
 © Habibur Rahman, CSE Student
 
 Licensed under the [MIT Licence](LICENSE)
+
+---
+
+<p align="center">
+   <i>
+     “Code is like humor. When you have to explain it, it’s bad.” <br>
+                                         – Cory House
+  </i>
+</p> 
+
+---

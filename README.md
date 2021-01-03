@@ -4,7 +4,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHabibu-R-ahman%2FURI-Online-Judge-Solutions.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false&align=center"/></a></br>
 
 This is an open source codes for you of URI online Judge.<br/>
-Here, I've added and *collected some URI problems solution in C, C++ and Java.You can use these URI Online judge solutions in your coding time on URI..<br/>
+Here, I've added and *collected some URI problems solution in C, C++, Java and Python. You can use these URI Online judge solutions in your coding time on URI..<br/>
 <em><h2>N:B:<q>Before seeing the solution make sure that you tried enough</q></h3></em><br/>
 I'm Trying to add more Solutions... Keep in touch!<br>
 
@@ -29,6 +29,7 @@ Below solutions are available in this repository:<br />
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.cpp">C++</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.Java">Java</a>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.py">Python</a>
 </td>
 </tr>
 
@@ -39,6 +40,7 @@ Below solutions are available in this repository:<br />
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.cpp">C++</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.Java">Java</a>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.py">Python</a>
 </td>
 </tr>
 
@@ -49,6 +51,7 @@ Below solutions are available in this repository:<br />
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.cpp">C++</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.Java">Java</a>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.py">Python</a>
 </td>
 </tr>
 
@@ -59,6 +62,7 @@ Below solutions are available in this repository:<br />
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.cpp">C++</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.Java">Java</a>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.py">Python</a>
 </td>
 </tr>
 
@@ -69,6 +73,7 @@ Below solutions are available in this repository:<br />
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.cpp">C++</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.Java">Java</a>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.py">Python</a>
 </td>
 </tr>
 
@@ -79,6 +84,7 @@ Below solutions are available in this repository:<br />
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1006.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1006.cpp">C++</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1006.Java">Java</a>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1006.py">Python</a>
 </td>
 </tr>
 

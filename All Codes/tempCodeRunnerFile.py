@@ -1,2 +1,3 @@
-x, y = [ int(x) for x in input().split()]
-print(f"X = {x + y}")
+x = int(input())
+y = int(input())
+print(f"SOMA = {x + y}")

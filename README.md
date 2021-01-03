@@ -8,6 +8,13 @@ Here, I've added and *collected some URI problems solution in C, C++, Java and <
 <em><h2>N:B:<q>Before seeing the solution make sure that you tried enough</q></h3></em><br/>
 I'm Trying to add more Solutions... Keep in touch!<br>
 
+<p align="center">
+   <i>
+     “Code is like humor. When you have to explain it, it’s bad.” <br>
+                                         – Cory House
+  </i>
+</p> 
+
 <strong>Contact with Me</strong><br> 
 Gmail    : anuhimel@gmail.com<br>
 -----------------------------------------------<br />

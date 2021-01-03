@@ -28,7 +28,7 @@ Below solutions are available in this repository:<br />
 <td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1000.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1000.cpp">C++</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1000.Java">Java</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1000.java">Java</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1000.py">Python</a>
 </td>
 </tr>
@@ -39,7 +39,7 @@ Below solutions are available in this repository:<br />
 <td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.cpp">C++</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.Java">Java</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.java">Java</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.py">Python</a>
 </td>
 </tr>
@@ -50,7 +50,7 @@ Below solutions are available in this repository:<br />
 <td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.cpp">C++</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.Java">Java</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.java">Java</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.py">Python</a>
 </td>
 </tr>
@@ -61,7 +61,7 @@ Below solutions are available in this repository:<br />
 <td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.cpp">C++</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.Java">Java</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.java">Java</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.py">Python</a>
 </td>
 </tr>
@@ -72,7 +72,7 @@ Below solutions are available in this repository:<br />
 <td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.cpp">C++</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.Java">Java</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.java">Java</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.py">Python</a>
 </td>
 </tr>
@@ -83,7 +83,7 @@ Below solutions are available in this repository:<br />
 <td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.cpp">C++</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.Java">Java</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.java">Java</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.py">Python</a>
 </td>
 </tr>
@@ -94,7 +94,7 @@ Below solutions are available in this repository:<br />
 <td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1006.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1006.cpp">C++</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1006.Java">Java</a>,
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1006.java">Java</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1006.py">Python</a>
 </td>
 </tr>
@@ -105,7 +105,7 @@ Below solutions are available in this repository:<br />
 <td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1007.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1007.cpp">C++</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1007.Java">Java</a>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1007.java">Java</a>
 </td>
 </tr>
 
@@ -115,7 +115,7 @@ Below solutions are available in this repository:<br />
 <td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1008.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1008.cpp">C++</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1008.Java">Java</a>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1008.java">Java</a>
 </td>
 </tr>
 
@@ -125,7 +125,7 @@ Below solutions are available in this repository:<br />
 <td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1009.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1009.cpp">C++</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1009.Java">Java</a>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1009.java">Java</a>
 </td>
 </tr>
 
@@ -135,7 +135,7 @@ Below solutions are available in this repository:<br />
 <td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1010.c">C</a>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1010.cpp">C++</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1010.Java">Java</a>
+    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1010.java">Java</a>
 </td>
 </tr>
 

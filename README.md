@@ -9,8 +9,8 @@ Here, I've added and *collected some URI problems solution in C, C++, Java and <
 I'm Trying to add more Solutions... Keep in touch!<br>
 
 ## Contact with Me 
-Gmail    : anuhimel@gmail.com<br>
------------------------------------------------<br />
+
+Gmail    : anuhimel@gmail.com<br><br />
 
 Below solutions are available in this repository:<br />
 
@@ -921,7 +921,7 @@ Below solutions are available in this repository:<br />
 </tr>
 
 </table>
-<br />..Adding Here more URI online Judge Solution..Just wait and star the repository..
+<br />Typing...
 
 ## License & Copyright
 

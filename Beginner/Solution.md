@@ -5,8 +5,8 @@ Here, I've added and *collected some URI problems solution in C and C++.You can 
 <em><h2>N:B:<q>Before seeing the solution make sure that you tried enough</q></h3></em><br/>
 I'm Trying to add more Solutions... Keep in touch!<br>
 
-<strong>Contact with Me</strong><br> 
-Gmail    : anuhimel@gmail.com<br>
+<strong>Contact with Me</strong><br>
+Gmail : anuhimel@gmail.com<br>
 -----------------------------------------------<br />
 
 Below solutions are available in this repository:<br />
@@ -821,4 +821,3 @@ Below solutions are available in this repository:<br />
 
 </table>
 <br />..Adding Here more URI online Judge Solution..Just wait and star the repository..
-

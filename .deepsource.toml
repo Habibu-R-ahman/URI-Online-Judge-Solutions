@@ -9,15 +9,15 @@ enabled = true
 
 [[transformers]]
 name = "yapf"
-enabled = true
+enabled = false
 
 [[transformers]]
 name = "autopep8"
-enabled = true
+enabled = false
 
 [[transformers]]
 name = "isort"
-enabled = true
+enabled = false
 
 [[transformers]]
 name = "standardrb"
@@ -37,8 +37,8 @@ enabled = true
 
 [[transformers]]
 name = "black"
-enabled = true
+enabled = false
 
 [[transformers]]
 name = "gofmt"
-enabled = true
+enabled = false

@@ -1,3 +1,4 @@
-x = int(input())
-y = int(input())
-print(f"SOMA = {x + y}")
+R1 = -0.29788
+# R2 = -1.71212
+
+# Impossivel calcular

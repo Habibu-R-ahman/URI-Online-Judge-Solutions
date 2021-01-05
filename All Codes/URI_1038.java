@@ -96,13 +96,13 @@ public class URI_1038 {
     public static void main(String[] args) throws IOException {
         Reader in = new Reader();
         PrintWriter out = new PrintWriter(System.out);
-        double arr[] = {4.00, 4.50, 5.00, 2.00, 1.50};
+        double arr[] = {0, 4.00, 4.50, 5.00, 2.00, 1.50};
 
         int X = in.nextInt();
         int Y = in.nextInt();
         in.close();
 
-        out.format("Total: R$ %.2f\n", arr[X-1] * Y);
+        out.format("Total: R$ %.2f\n", arr[X] * Y);
         out.close();
     }
 }

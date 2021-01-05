@@ -1,4 +1,6 @@
 All Codes/*.so
+All Codes/*
+!All Codes/*.*
 All Codes/test.*
 .venv
 .vscode

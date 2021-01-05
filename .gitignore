@@ -1,5 +1,57 @@
 All Codes/*.so
-All Codes/*.o
 All Codes/test.*
 .venv
 .vscode
+
+# Prerequisites
+All Codes/*.d
+
+# Object files
+All Codes/*.o
+All Codes/*.ko
+All Codes/*.obj
+All Codes/*.elf
+
+# Linker output
+All Codes/*.ilk
+All Codes/*.map
+All Codes/*.exp
+
+# Precompiled Headers
+All Codes/*.gch
+All Codes/*.pch
+
+# Libraries
+All Codes/*.lib
+All Codes/*.a
+All Codes/*.la
+All Codes/*.lo
+
+# Shared objects (inc. Windows DLLs)
+All Codes/*.dll
+All Codes/*.so
+All Codes/*.so.*
+All Codes/*.dylib
+
+# Executables
+All Codes/*.exe
+All Codes/*.out
+All Codes/*.app
+All Codes/*.i*86
+All Codes/*.x86_64
+All Codes/*.hex
+
+# Debug files
+All Codes/*.dSYM/
+All Codes/*.su
+All Codes/*.idb
+All Codes/*.pdb
+
+# Kernel Module Compile Results
+All Codes/*.mod*
+All Codes/*.cmd
+All Codes/.tmp_versions/
+All Codes/modules.order
+All Codes/Module.symvers
+All Codes/Mkfile.old
+All Codes/dkms.conf

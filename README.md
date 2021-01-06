@@ -303,7 +303,8 @@ Below solutions are available in this repository:<br />
 <td>1040</td>
 <td>Average 3</td>
 <td><code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1040.c">C</a></code>,
-    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1040.cpp">C++</a></code>
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1040.cpp">C++</a></code>,
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1040.py">Python</a></code>
 </td>
 </tr>
 
@@ -311,7 +312,8 @@ Below solutions are available in this repository:<br />
 <td>1041</td>
 <td>Coordinates of a Point</td>
 <td><code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1041.c">C</a></code>,
-    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1041.cpp">C++</a></code>
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1041.cpp">C++</a></code>,
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1041.py">Python</a></code>
 </td>
 </tr>
 
@@ -319,7 +321,8 @@ Below solutions are available in this repository:<br />
 <td>1042</td>
 <td>Simple Sort</td>
 <td><code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1042.c">C</a></code>,
-    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1042.cpp">C++</a></code>
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1042.cpp">C++</a></code>,
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1042.py">Python</a></code>
 </td>
 </tr>
 
@@ -327,7 +330,8 @@ Below solutions are available in this repository:<br />
 <td>1043</td>
 <td>Triangle</td>
 <td><code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1043.c">C</a></code>,
-    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1043.cpp">C++</a></code>
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1043.cpp">C++</a></code>,
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1043.py">Python</a></code>
 </td>
 </tr>
 
@@ -335,7 +339,8 @@ Below solutions are available in this repository:<br />
 <td>1044</td>
 <td>Multiples</td>
 <td><code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1044.c">C</a></code>,
-    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1044.cpp">C++</a></code>
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1044.cpp">C++</a></code>,
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1044.py">Python</a></code>
 </td>
 </tr>
 
@@ -343,7 +348,8 @@ Below solutions are available in this repository:<br />
 <td>1045</td>
 <td>Triangle Types</td>
 <td><code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1045.c">C</a></code>,
-    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1045.cpp">C++</a></code>
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1045.cpp">C++</a></code>,
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1045.py">Python</a></code>
 </td>
 </tr>
 
@@ -351,7 +357,8 @@ Below solutions are available in this repository:<br />
 <td>1046</td>
 <td>Game Time</td>
 <td><code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1046.c">C</a></code>,
-    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1046.cpp">C++</a></code>
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1046.cpp">C++</a></code>,
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1046.py">Python</a></code>
 </td>
 </tr>
 

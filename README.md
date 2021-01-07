@@ -366,7 +366,9 @@ Below solutions are available in this repository:<br />
 <td>1047</td>
 <td>Game Time with Minutes</td>
 <td><code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1047.c">C</a></code>,
-    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1047.cpp">C++</a></code>
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1047.cpp">C++</a></code>,
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1047.py">Python</a></code>
+
 </td>
 </tr>
 
@@ -374,7 +376,8 @@ Below solutions are available in this repository:<br />
 <td>1048</td>
 <td>Salary Increase</td>
 <td><code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1048.c">C</a></code>,
-    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1048.cpp">C++</a></code>
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1048.cpp">C++</a></code>,
+    <code><a href="https://github.com/Habibu-R-ahman/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1048.py">Python</a></code>
 </td>
 </tr>
 
